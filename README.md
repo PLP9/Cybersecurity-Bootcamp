@@ -29,7 +29,7 @@ An advantage of a jump box is that it can help secure remote access to your vm's
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the data and system logs.
 - What does Filebeat watch for? Filebeat watches for which files have changed and when.
-- What does Metricbeat record?_ Metricbeat records metrics and statistics from the system and services running on the server.
+- What does Metricbeat record? Metricbeat records metrics and statistics from the system and services running on the server.
 
 
 | Name     | Function | IP Address | Operating System |
